@@ -1,5 +1,9 @@
 # AWS: Cloud Servers
 
+## Author 
+
+Kenya Womack
+
 ## Overview
 
 "The Cloud" is at the core of most internet applications, from distributed data, to servers, to games and web/data hosting services How does it work? How can we leverage it?
